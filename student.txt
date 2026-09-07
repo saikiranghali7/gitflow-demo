@@ -1,0 +1,6 @@
+student registration 
+
+Name : saikiran
+Age : 21
+Email : saikiran7@gmail.com
+MObile : 8904233991
